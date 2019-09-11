@@ -5,3 +5,5 @@
 * https://colab.research.google.com/github/JinFree/Thermo-and-Fluid-Engineering-Lab.1/blob/master/Thermo_and_Fluid_Engineering_Lab_1_02.ipynb
 * https://colab.research.google.com/github/JinFree/Thermo-and-Fluid-Engineering-Lab.1/blob/master/Thermo_and_Fluid_Engineering_Lab_1_03.ipynb
 * https://colab.research.google.com/github/JinFree/Thermo-and-Fluid-Engineering-Lab.1/blob/master/Thermo_and_Fluid_Engineering_Lab_1_04.ipynb
+* https://colab.research.google.com/github/JinFree/Thermo-and-Fluid-Engineering-Lab.1/blob/master/Thermo_and_Fluid_Engineering_Lab_1_05.ipynb
+* https://colab.research.google.com/github/JinFree/Thermo-and-Fluid-Engineering-Lab.1/blob/master/Thermo_and_Fluid_Engineering_Lab_1_06.ipynb
